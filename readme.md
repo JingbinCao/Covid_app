@@ -11,6 +11,6 @@ df = pd.Series([1,2,3],index=['a','b','c'])
 ```
 
 ```r
-df = read.csv("https://...")
-model = lm(df)
+df <- read.csv("https://...")
+model <- lm(df)
 ```
